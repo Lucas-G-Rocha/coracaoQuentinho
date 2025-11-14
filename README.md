@@ -8,8 +8,9 @@
 > 💻 **Tecnologias utilizadas**  
 > - **Front-end:** React, React Router DOM, Lucide React  
 > - **Back-end:** Java + Spring Boot  
-> - **Hospedagem:** Render  
->
+> - **Hospedagem:** Render(frontEnd), Railway(backEnd)
+> - **Git e Github**
+> 
 > 🧩 **Meu papel no projeto**  
 > Eu fui responsável, junto com outro integrante, pelo desenvolvimento do front-end.  
 >  
