@@ -2,9 +2,6 @@
 >  
 > Nossa equipe escolheu a **ONG Coração Quentinho**, que oferece apoio social através de distribuição de refeições, cestas básicas, cadeiras de rodas, aulas de artesanato e suporte socioemocional para crianças e famílias.  
 >
-> 🌍 **Veja o projeto online:**  
-> 👉 https://ong-coracaoquentinho.onrender.com/
-> 
 > 🎯 **Objetivo do projeto**  
 > Criar uma plataforma que facilitasse o **cadastro e o gerenciamento de voluntários**, permitindo que a ONG organizasse melhor suas atividades e pessoas envolvidas.  
 >
@@ -23,5 +20,7 @@
 > Qualquer pessoa pode enviar um cadastro de voluntariado pela landing page.  
 > O login é exclusivo para o administrador, permitindo visualizar e gerenciar os cadastros recebidos.  
 >
+> 🌍 **Veja o projeto online:**  
+> 👉 https://ong-coracaoquentinho.onrender.com/
+>
 > Este projeto foi uma oportunidade incrível de aplicar conhecimentos técnicos enquanto contribuíamos para uma causa social importante. ❤️🔥
-
