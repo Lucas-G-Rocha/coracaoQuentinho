@@ -14,7 +14,7 @@
 > Eu fui responsável, junto com outro integrante, pelo desenvolvimento do front-end.  
 >  
 > - Meu colega criou a parte estática da landing page  
-> - **Eu fui responsável por adaptar tudo para JSX, criar componentes reutilizáveis, estruturar o front-end e desenvolver as chamadas para a API**  
+> - **Eu fui responsável por adaptar tudo para JSX, criar componentes reutilizáveis, validações, estruturar o front-end e desenvolver as chamadas para a API**  
 >
 > 🔐 **Acesso ao sistema**  
 > Qualquer pessoa pode enviar um cadastro de voluntariado pela landing page.  
